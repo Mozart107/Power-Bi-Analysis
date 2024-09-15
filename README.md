@@ -1,6 +1,13 @@
 # Call Center Solution Analysis
 
+## Project Overview 
+
+![Call Center Solution 8_28_2024 4_06_26 PM](https://github.com/user-attachments/assets/26e27bc6-aab6-4f0b-b69d-d6d90daf6e7d)
+
+
 This project involves the development of an interactive dashboard for analyzing customer retention in the telecom industry. The goal is to provide actionable insights that can help reduce customer churn and enhance retention strategies.
+
+![Call Center Solution 8_28_2024 4_36_03 PM](https://github.com/user-attachments/assets/2da60ca4-2f8d-499b-ad9c-af5cdce68140)
 
 ### Data Sources
 
